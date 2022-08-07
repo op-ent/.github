@@ -12,7 +12,7 @@ Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
 
 - **Développeurs frontend**: librairie de composants *headless* (TypeScript et React), tableau de bord (TypeScript, React, Next.js et Tailwind CSS)
 - **Développeurs backend**: API modulaire (TypeScript et AdonisJS)
-- **UI/UX designers et graphistes*: identité graphique, logo, *design system*, maquettes (Figma)
+- **UI/UX designers et graphistes**: identité graphique, logo, *design system*, maquettes (Figma)
 - **Rédacteurs de contenu**: sites internets, articles, documentation
 - **Elèves et professeurs**: retours, idées, expérimentation de l'ENT
 - **Etablissements scolaires**: expérimentation de l'ENT
