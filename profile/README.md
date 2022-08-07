@@ -1,6 +1,6 @@
 # op-ent
 
-L'ENT open-source.
+L'ENT open source.
 
 ## 🙋‍♀️ Introduction
 
