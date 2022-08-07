@@ -18,7 +18,7 @@ Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
 - **Etablissements scolaires**: expérimentation de l'ENT
 - **Community managers**: gestion des réseaux sociaux
 - **Monteurs vidéo**: avec Remotion
-- Autre ? N'hésitez pas !
+- Autre... N'hésitez pas !
 
 > **MERCI DE NE PAS CONTRIBUER SANS AVOIR PRIS CONTACT AU PREALABLE VIA [GITHUB DISCUSSIONS](https://github.com/op-ent/op-ent/discussions).**
 
