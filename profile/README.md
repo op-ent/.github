@@ -10,8 +10,8 @@ Nous voulons créer un ENT (*Espace Numérique de Travail*) open-source, une alt
 
 Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
 
-- **Développeurs frontend**: librairie de composants *headless* (TypeScript et React), tableau de bord (TypeScript, React, Next.js et Tailwind CSS)
-- **Développeurs backend**: API modulaire (TypeScript et AdonisJS)
+- **Développeurs frontend**: librairie de composants *headless* (TypeScript et React), tableau de bord (TypeScript, React, Next.js et Tailwind CSS), client (TypeScript et Axios)
+- **Développeurs backend**: API modulaire (TypeScript, AdonisJS et Postgres), REST, GraphQL (Apollo), websockets
 - **UI/UX designers et graphistes**: identité graphique, logo, *design system*, maquettes (Figma)
 - **Rédacteurs de contenu**: sites internets, articles, documentation
 - **Elèves et professeurs**: retours, idées, expérimentation de l'ENT
