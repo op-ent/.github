@@ -25,3 +25,5 @@ Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
 ## 👩‍💻 Resources utiles
 
 A venir
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=op-ent&title=Visitors)
