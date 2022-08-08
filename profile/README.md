@@ -2,7 +2,11 @@
 
 L'ENT open source.
 
+<div id="discord">
+
 [![](https://dcbadge.vercel.app/api/server/kMFmfSbC2C?style=flat-square)](https://discord.gg/kMFmfSbC2C)
+
+</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=op-ent&title=Visitors)
 
@@ -24,7 +28,7 @@ Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
 - **Monteurs vidéo** : avec Remotion
 - Autre... N'hésitez pas !
 
-> **MERCI DE NE PAS CONTRIBUER SANS AVOIR PRIS CONTACT AU PREALABLE VIA [GITHUB DISCUSSIONS](https://github.com/op-ent/op-ent/discussions).**
+> **MERCI DE NE PAS CONTRIBUER SANS AVOIR PRIS CONTACT AU PREALABLE VIA [DISCORD](#discord) OU [GITHUB DISCUSSIONS](https://github.com/op-ent/op-ent/discussions).**
 
 ## 👩‍💻 Resources utiles
 
