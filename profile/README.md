@@ -24,6 +24,8 @@ Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
 
 ## 👩‍💻 Resources utiles
 
-A venir
+![Discord Shield](https://discordapp.com/api/guilds/1006118945482362960/widget.png?style=shield)
+
+<iframe src="https://discord.com/widget?id=1006118945482362960&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=op-ent&title=Visitors)
