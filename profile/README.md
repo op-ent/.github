@@ -12,7 +12,16 @@ L'ENT open source.
 
 ## 🙋‍♀️ Introduction
 
-Nous voulons créer un ENT (*Espace Numérique de Travail*) open-source, une alternative à des services comme Pronote ou EcoleDirecte qui détiennent un quasi monopôle.
+Nous voulons créer un ENT (*Espace Numérique de Travail*) open source, une alternative à des services comme Pronote ou EcoleDirecte qui détiennent un quasi monopôle.
+
+## Roadmap
+
+> Cette roadmap n'est pas définitive et sera modifiée au fur et à mesure.
+
+1. Concevoir et développer les packages qui permettront la réalisation de la plateforme (`unstyled-ui` par exemple)
+2. Concevoir et développer l'API et définir les schémas de la base de données
+3. Développer le tableau de bord (l'interface pour l'API)
+4. Développer le site "vitrine" pour exposer le projet
 
 ## 🌈 Contribuer
 
