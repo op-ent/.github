@@ -23,6 +23,8 @@ Nous voulons créer un ENT (*Espace Numérique de Travail*) open source, une alt
 3. Développer le tableau de bord (l'interface pour l'API)
 4. Développer le site "vitrine" pour exposer le projet
 
+En ce qui concerne les fonctionnalités, nous voulons dans un 1er temps rendre disponible les mêmes fonctionnalités que les autres ENT (sans qu'elles soient systématiquement réalisées de la même façon), puis dans un 2ème temps ajouter des fonctionnalités supplémentaires.
+
 ## 🌈 Contribuer
 
 Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
