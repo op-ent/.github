@@ -44,3 +44,7 @@ Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
 ## 👩‍💻 Resources utiles
 
 A venir
+
+---
+
+[![Netlify banner](https://www.netlify.com/v3/img/components/netlify-color-accent.svg)](https://www.netlify.com)
