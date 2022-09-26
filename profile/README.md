@@ -10,11 +10,17 @@ L'ENT open source.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=op-ent&title=Visitors)
 
-## 🙋‍♀️ Introduction
+## 🙋‍♀️ Présentation
 
-Nous voulons créer un ENT (*Espace Numérique de Travail*) open source, une alternative à des services comme Pronote ou EcoleDirecte qui détiennent un quasi monopôle.
+Nous sommes une jeune équipe qui développe un espace numérique de travail (ENT) pour les établissements scolaires (écoles primaires, collèges, lycées, enseignement supérieur) comme Pronote ou EcoleDirecte. Nous souhaitons créer un espace numérique adapté à tous les utilisateurs : élèves, professeurs, parents d'élèves, administration...
 
-L'objectif n'est pas de créer des intégrations (ou un CAS) pour Pronote ou EcoleDirecte, mais bel et bien une alternative.
+Ce projet est open-source, c’est-à-dire que le code est accessible au public. Toute personne peut donc y contribuer (que ce soit en codant, en écrivant de la documentation ou juste en émettant des idées).
+
+Cette transparence permet de favoriser un progrès constant. Une erreur dans le fonctionnement peut être corrigée facilement et rapidement. De plus, la sécurité de l’utilisateur est mise en avant. Comme vous ou toute autre personne peut accéder au code, il est impossible de collecter secrètement des données personnelles.
+
+Le projet est géré par [Florian LEFEBVRE](https://github.com/florian-lefebvre) qui a précédemment travaillé sur [yNotes](https://ynotes.fr), une application en lien avec l’apprentissage et qui est déjà actif dans le développement depuis 2018.
+
+Si tu souhaites communiquer avec notre équipe, nous t'invitons à rejoindre notre serveur Discord ; https://discord.gg/kMFmfSbC2C.
 
 ## Roadmap
 
@@ -25,15 +31,17 @@ L'objectif n'est pas de créer des intégrations (ou un CAS) pour Pronote ou Eco
 3. Développer le tableau de bord (l'interface pour l'API)
 4. Développer le site "vitrine" pour exposer le projet
 
+En réalité, toutes ces étapes se font en simultané.
+
 En ce qui concerne les fonctionnalités, nous voulons dans un 1er temps rendre disponible les mêmes fonctionnalités que les autres ENT (sans qu'elles soient systématiquement réalisées de la même façon), puis dans un 2ème temps ajouter des fonctionnalités supplémentaires.
 
 ## 🌈 Contribuer
 
 Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
 
-- **Développeurs frontend** : librairie de composants *headless* (TypeScript et React), tableau de bord (TypeScript, React, Next.js et Tailwind CSS), client (TypeScript et Axios)
+- **Développeurs frontend** : librairie de composants _headless_ (TypeScript et React), tableau de bord (TypeScript, React, Next.js et Tailwind CSS), client (TypeScript et Axios)
 - **Développeurs backend** : API modulaire (TypeScript, AdonisJS, Node.js et Postgres), REST, GraphQL (Apollo), websockets
-- **UI/UX designers et graphistes** : identité graphique, logo, *design system*, maquettes (Figma)
+- **UI/UX designers et graphistes** : identité graphique, logo, _design system_, maquettes (Figma)
 - **Rédacteurs de contenu** : sites internets, articles, documentation
 - **Elèves et professeurs** : retours, idées, expérimentation de l'ENT
 - **Etablissements scolaires** : expérimentation de l'ENT
@@ -43,9 +51,11 @@ Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
 
 > **MERCI DE NE PAS CONTRIBUER SANS AVOIR PRIS CONTACT AU PREALABLE VIA [DISCORD](#discord) OU [GITHUB DISCUSSIONS](https://github.com/op-ent/op-ent/discussions).**
 
+Vous pouvez aussi nous soutenir financièrement via [Tipeee](https://fr.tipeee.com/op-ent).
+
 ## 👩‍💻 Resources utiles
 
-A venir
+- [Lignes directrices (English)](https://github.com/op-ent/op-ent/blob/main/guidelines.md)
 
 ---
 
