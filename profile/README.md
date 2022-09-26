@@ -20,7 +20,7 @@ Cette transparence permet de favoriser un progrès constant. Une erreur dans le 
 
 Le projet est géré par [Florian LEFEBVRE](https://github.com/florian-lefebvre) qui a précédemment travaillé sur [yNotes](https://ynotes.fr), une application en lien avec l’apprentissage et qui est déjà actif dans le développement depuis 2018.
 
-Si tu souhaites communiquer avec notre équipe, nous t'invitons à rejoindre notre serveur Discord ; https://discord.gg/kMFmfSbC2C.
+Si tu souhaites communiquer avec notre équipe, nous t'invitons à rejoindre notre serveur Discord : https://discord.gg/kMFmfSbC2C.
 
 ## Roadmap
 
