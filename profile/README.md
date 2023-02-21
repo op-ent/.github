@@ -22,25 +22,16 @@ Le projet est géré par [Florian LEFEBVRE](https://github.com/florian-lefebvre)
 
 Si tu souhaites communiquer avec notre équipe, nous t'invitons à rejoindre notre serveur Discord : https://discord.gg/kMFmfSbC2C.
 
-## Roadmap
+## Feuille de route
 
-> Cette roadmap n'est pas définitive et sera modifiée au fur et à mesure.
-
-1. Concevoir et développer les packages qui permettront la réalisation de la plateforme (`unstyled-ui` par exemple)
-2. Concevoir et développer l'API et définir les schémas de la base de données
-3. Développer le tableau de bord (l'interface pour l'API)
-4. Développer le site "vitrine" pour exposer le projet
-
-En réalité, toutes ces étapes se font en simultané.
-
-En ce qui concerne les fonctionnalités, nous voulons dans un 1er temps rendre disponible les mêmes fonctionnalités que les autres ENT (sans qu'elles soient systématiquement réalisées de la même façon), puis dans un 2ème temps ajouter des fonctionnalités supplémentaires.
+https://docs.op-ent.fr/communaute/feuille-de-route
 
 ## 🌈 Contribuer
 
 Ce projet repose entièrement sur la communauté ! Nous avons besoin de vous :
 
-- **Développeurs frontend** : librairie de composants _headless_ (TypeScript et React), tableau de bord (TypeScript, React, Next.js et Tailwind CSS), client (TypeScript et Axios)
-- **Développeurs backend** : API modulaire (TypeScript, AdonisJS, Node.js et Postgres), REST, GraphQL (Apollo), websockets
+- **Développeurs frontend** : React, TypeScript, Next.js, Remix, Tailwind CSS, React Query, Jotai, Redaxios
+- **Développeurs backend** : TypeScript, AdonisJS, Node.js et Postgres
 - **UI/UX designers et graphistes** : identité graphique, logo, _design system_, maquettes (Figma)
 - **Rédacteurs de contenu** : sites internets, articles, documentation
 - **Elèves et professeurs** : retours, idées, expérimentation de l'ENT
@@ -55,7 +46,7 @@ Vous pouvez aussi nous soutenir financièrement via [Tipeee](https://fr.tipeee.c
 
 ## 👩‍💻 Resources utiles
 
-- [Lignes directrices (English)](https://github.com/op-ent/op-ent/blob/main/guidelines.md)
+[Documentation](https://docs.op-ent.fr/)
 
 ---
 
